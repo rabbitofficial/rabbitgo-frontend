@@ -1,0 +1,2 @@
+# rabbitgo-frontend
+Frontend code
